@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+Home page: Welcome to my blog
 ---
-
